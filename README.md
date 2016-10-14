@@ -19,7 +19,7 @@ $ sudo mv ./trans /usr/local/bin
 $ sudo chmod +x /usr/local/bin/trans
 ```
 
-## Create scripts
+## Create wrapper scripts for translation
 
 Create two files and make them executable
 
@@ -41,5 +41,5 @@ Open keyboard shortcuts settingsfrom Ubuntu menu and configure custom shortcuts 
 
 ## Quick translation
 
-Select a word to translare and press your shortcut (alt+4 on screenshot) to get instant translation.
-You also can select block of text and press configured shortcut to execure qltr (alt+5 on screnshot) and get translation for selected text
+Select a word to translate and press your shortcut (alt+4 on screenshot) to get instant translation.
+You also can select block of text and press configured shortcut to execure **qltr** (alt+5 on screnshot) and get translation for selected text
