@@ -37,3 +37,9 @@ notify-send -u critical "$(xsel -o)" "$(trans :ru "$(xsel -o)" -brief)"
 ## Configure shortcuts
 
 Open keyboard shortcuts settingsfrom Ubuntu menu and configure custom shortcuts to translate a word and text
+![Configure shortcuts](https://github.com/nitrogear/qltranslate/blob/master/docs/qltranslate-3.png?raw=true)
+
+## Quick translation
+
+Select a word to translare and press your shortcut (alt+4 on screenshot) to get instant translation.
+You also can select block of text and press configured shortcut to execure qltr (alt+5 on screnshot) and get translation for selected text
